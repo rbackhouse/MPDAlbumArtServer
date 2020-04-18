@@ -1,0 +1,8 @@
+{
+  "name": "MPDAlbumArtServer",
+  "version": "0.0.1",
+  "description": "MPDAlbumArtServer",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
